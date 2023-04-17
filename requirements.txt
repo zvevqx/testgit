@@ -8,3 +8,4 @@ MarkupSafe==2.1.1
 PyYAML==6.0
 six==1.16.0
 Werkzeug==2.2.2
+lol
